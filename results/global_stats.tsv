@@ -1,0 +1,2 @@
+total_proteins	proteins_with_any_hit	proteins_without_hit	total_hit_rows	proteins_with_interpro	proteins_with_go	proteins_with_pathway	hit_rows_with_interpro	hit_rows_with_go	hit_rows_with_pathway	mean_hits_per_protein	median_hits_per_protein	max_hits_per_protein
+21123	17162	3961	172927	11508	9269	10374	59148	31699	54302	10.07615662510197	7.0	101

@@ -1,0 +1,247 @@
+protease_key	analysis	signature_desc	interpro_acc	interpro_desc	hit_rows	unique_proteins
+IPR036852	SUPERFAMILY	Subtilisin-like	IPR036852	Peptidase S8/S53 domain superfamily	108	107
+IPR036852	Gene3D	Peptidase S8/S53 domain	IPR036852	Peptidase S8/S53 domain superfamily	127	105
+IPR000209	Pfam	Subtilase family	IPR000209	Peptidase S8/S53 domain	106	98
+IPR050131	PANTHER	PEPTIDASE S8	IPR050131	Subtilisin-like serine protease	84	84
+IPR038765	SUPERFAMILY	Cysteine proteinases	IPR038765	Papain-like cysteine peptidase superfamily	76	76
+IPR015500	PRINTS	Subtilisin serine protease family (S8) signature	IPR015500	Peptidase S8, subtilisin-related	156	59
+IPR023827	ProSitePatterns	Serine proteases, subtilase family, aspartic acid active site.	IPR023827	Peptidase S8, subtilisin, Asp-active site	57	57
+IPR023828	ProSitePatterns	Serine proteases, subtilase family, serine active site.	IPR023828	Peptidase S8, subtilisin, Ser-active site	54	54
+IPR022398	ProSitePatterns	Serine proteases, subtilase family, histidine active site.	IPR022398	Peptidase S8, subtilisin, His-active site	49	49
+IPR001394	Pfam	Ubiquitin carboxyl-terminal hydrolase	IPR001394	Peptidase C19, ubiquitin carboxyl-terminal hydrolase	44	44
+IPR028889	ProSiteProfiles	Ubiquitin specific protease (USP) domain profile.	IPR028889	Ubiquitin specific protease UPS, catalytic domain	42	42
+IPR010259	Pfam	Peptidase inhibitor I9	IPR010259	Peptidase S8 propeptide/proteinase inhibitor I9	35	35
+IPR037045	Gene3D	Peptidase S8 propeptide/proteinase inhibitor I9	IPR037045	Peptidase S8 propeptide/proteinase inhibitor I9 superfamily	28	28
+IPR018200	ProSitePatterns	Ubiquitin specific protease (USP) domain signature 2.	IPR018200	Ubiquitin specific protease, conserved site	25	25
+IPR001375	Pfam	Prolyl oligopeptidase family	IPR001375	Peptidase S9, prolyl oligopeptidase, catalytic domain	24	24
+IPR011600	Pfam	Caspase domain	IPR011600	Peptidase C14, caspase domain	24	24
+SSF54897	SUPERFAMILY	Protease propeptides/inhibitors			24	24
+IPR027268	Gene3D	Neutral Protease Domain 2	IPR027268	Peptidase M4/M1, CTD superfamily	23	22
+IPR011249	SUPERFAMILY	LuxS/MPP-like metallohydrolase	IPR011249	Metalloenzyme, LuxS/M16 peptidase-like	32	21
+IPR018200	ProSitePatterns	Ubiquitin specific protease (USP) domain signature 1.	IPR018200	Ubiquitin specific protease, conserved site	17	17
+IPR000834	Pfam	Zinc carboxypeptidase	IPR000834	Peptidase M14, carboxypeptidase A	19	16
+IPR009003	SUPERFAMILY	Trypsin-like serine proteases	IPR009003	Peptidase S1, PA clan	17	16
+IPR000555	Pfam	JAB1/Mov34/MPN/PAD-1 ubiquitin protease	IPR000555	JAB1/MPN/MOV34 metalloenzyme domain	16	16
+IPR000834	ProSiteProfiles	Peptidase family M14 domain profile.	IPR000834	Peptidase M14, carboxypeptidase A	16	16
+PTHR11705	PANTHER	PROTEASE FAMILY M14 CARBOXYPEPTIDASE A,B			16	16
+IPR007863	Pfam	Peptidase M16 inactive domain	IPR007863	Peptidase M16, C-terminal	15	15
+IPR050344	PANTHER	PROTEASE M1 ZINC METALLOPROTEASE	IPR050344	Peptidase M1 family aminopeptidases	15	15
+IPR000834	SMART	zn_carb	IPR000834	Peptidase M14, carboxypeptidase A	14	14
+IPR045090	PANTHER	PROTEASE M3 THIMET OLIGOPEPTIDASE-RELATED	IPR045090	Peptidase M3A/M3B	14	14
+IPR045357	Pfam	Peptidase M1 N-terminal domain	IPR045357	Aminopeptidase N-like , N-terminal domain	14	14
+IPR043504	Gene3D		IPR043504	Peptidase S1, PA clan, chymotrypsin-like fold	17	13
+IPR014782	Pfam	Peptidase family M1 domain	IPR014782	Peptidase M1, membrane alanine aminopeptidase	14	13
+IPR010435	Pfam	Fn3-like domain	IPR010435	C5a peptidase/Subtilisin-like protease SBT2-like, Fn3-like domain	13	13
+IPR000834	PRINTS	Carboxypeptidase A metalloprotease (M14) family signature	IPR000834	Peptidase M14, carboxypeptidase A	44	12
+SSF50993	SUPERFAMILY	Peptidase/esterase 'gauge' domain			13	12
+IPR001567	Pfam	Peptidase family M3	IPR001567	Peptidase M3A/M3B catalytic domain	12	12
+IPR050361	PANTHER	METALLOPROTEASE	IPR050361	Mitochondrial Processing Peptidase/Ubiquinol-cytochrome c Reductase Complex	11	11
+PTHR42776	PANTHER	SERINE PEPTIDASE S9 FAMILY MEMBER			11	11
+IPR000994	Pfam	Metallopeptidase family M24	IPR000994	Peptidase M24	10	10
+PTHR43016	PANTHER	PRESEQUENCE PROTEASE			10	10
+IPR001930	PRINTS	Membrane alanyl dipeptidase (M1) family signature	IPR001930	Peptidase M1, alanine aminopeptidase/leukotriene A4 hydrolase	25	9
+IPR007484	Pfam	Peptidase family M28	IPR007484	Peptidase M28	11	9
+IPR023302	Pfam	Prolyl oligopeptidase, N-terminal beta-propeller domain	IPR023302	Peptidase S9A, N-terminal domain	10	9
+IPR011765	Pfam	Insulinase (Peptidase family M16)	IPR011765	Peptidase M16, N-terminal	9	9
+IPR002470	PRINTS	Prolyl oligopeptidase serine protease (S9A) signature	IPR002470	Peptidase S9A, prolyl oligopeptidase	33	8
+PTHR46366	PANTHER	PRO-APOPTOTIC SERINE PROTEASE NMA111			8	8
+IPR008753	Pfam	Peptidase family M13	IPR008753	Peptidase M13, N-terminal domain	7	7
+IPR022764	Pfam	Rhomboid domain	IPR022764	Peptidase S54, rhomboid domain	7	7
+IPR051048	PANTHER	SUBTILISIN-RELATED	IPR051048	Peptidase S8/S53 subtilisin kexin sedolisin	7	7
+IPR051543	PANTHER	PROTEASE FAMILY S9A OLIGOPEPTIDASE	IPR051543	Serine Peptidase S9A Subfamily	7	7
+PF13365	Pfam	Trypsin-like peptidase domain			7	7
+IPR003653	Pfam	Ulp1 protease family, C-terminal catalytic domain	IPR003653	Ulp1 protease family, C-terminal catalytic domain	7	6
+IPR021109	Gene3D	Acid Proteases	IPR021109	Aspartic peptidase domain superfamily	7	6
+IPR021109	SUPERFAMILY	Acid proteases	IPR021109	Aspartic peptidase domain superfamily	7	6
+IPR000718	PANTHER	ZINC METALLOPROTEASE FAMILY M13 NEPRILYSIN-RELATED	IPR000718	Peptidase M13	6	6
+IPR000718	ProSiteProfiles	Neprilysin-like (M13) protease domain profile.	IPR000718	Peptidase M13	6	6
+IPR001948	PANTHER	ASPARTYL AMINOPEPTIDASE	IPR001948	Peptidase M18	6	6
+IPR001948	Pfam	Aminopeptidase I zinc metalloprotease (M18)	IPR001948	Peptidase M18	6	6
+IPR003653	ProSiteProfiles	Ubiquitin-like protease family profile.	IPR003653	Ulp1 protease family, C-terminal catalytic domain	6	6
+IPR019533	CDD	S26_SPase_I	IPR019533	Peptidase S26	6	6
+IPR042089	Gene3D	Neutral endopeptidase , domain2	IPR042089	Peptidase M13, domain 2	6	6
+IPR050242	PANTHER	EUKARYOTIC TRANSLATION INITIATION FACTOR 3 -RELATED	IPR050242	JAMM/MPN+ metalloenzymes, peptidase M67A	6	6
+IPR011356	PRINTS	Cytosol aminopeptidase signature	IPR011356	Peptidase M17, leucine aminopeptidase/peptidase B	25	5
+IPR019165	Pfam	Peptidase M76 family	IPR019165	Peptidase M76, ATP23	7	5
+IPR000819	Pfam	Cytosol aminopeptidase family, catalytic domain	IPR000819	Peptidase M17, leucyl aminopeptidase, C-terminal	5	5
+IPR000819	ProSitePatterns	Cytosol aminopeptidase signature.	IPR000819	Peptidase M17, leucyl aminopeptidase, C-terminal	5	5
+IPR001461	PANTHER	BETA-SITE APP-CLEAVING ENZYME, ISOFORM A-RELATED	IPR001461	Aspartic peptidase A1	5	5
+IPR001563	Pfam	Serine carboxypeptidase	IPR001563	Peptidase S10, serine carboxypeptidase	5	5
+IPR011356	CDD	Peptidase_M17	IPR011356	Peptidase M17, leucine aminopeptidase/peptidase B	5	5
+IPR011356	PANTHER	LEUCINE AMINOPEPTIDASE-RELATED	IPR011356	Peptidase M17, leucine aminopeptidase/peptidase B	5	5
+IPR033121	Pfam	Eukaryotic aspartyl protease	IPR033121	Peptidase family A1 domain	5	5
+IPR036286	SUPERFAMILY	LexA/Signal peptidase	IPR036286	LexA/Signal peptidase-like superfamily	5	5
+IPR045175	PANTHER	METALLOPEPTIDASE M28 FAMILY MEMBER	IPR045175	Peptidase M28 family	5	5
+IPR046336	Gene3D		IPR046336	Lon protease, N-terminal domain superfamily	5	5
+IPR052030	PANTHER	PEPTIDASE M20	IPR052030	Peptidase M20/M20A family hydrolases	5	5
+IPR019533	Pfam	Signal peptidase, peptidase S26	IPR019533	Peptidase S26	6	4
+IPR000642	Pfam	Peptidase family M41	IPR000642	Peptidase M41	4	4
+IPR001578	PANTHER	UBIQUITIN CARBOXYL-TERMINAL HYDROLASE	IPR001578	Peptidase C12, ubiquitin carboxyl-terminal hydrolase	4	4
+IPR001578	Pfam	Ubiquitin carboxyl-terminal hydrolase, family 1	IPR001578	Peptidase C12, ubiquitin carboxyl-terminal hydrolase	4	4
+IPR001578	ProSiteProfiles	Ubiquitin carboxyl-terminal hydrolase (UCH) catalytic domain profile.	IPR001578	Peptidase C12, ubiquitin carboxyl-terminal hydrolase	4	4
+IPR001590	ProSiteProfiles	ADAM type metalloprotease domain profile.	IPR001590	Peptidase M12B, ADAM/reprolysin	4	4
+IPR002933	Pfam	Peptidase family M20/M25/M40	IPR002933	Peptidase M20	4	4
+IPR003111	Pfam	ATP-dependent protease La (LON) substrate-binding domain	IPR003111	Lon protease, N-terminal domain	4	4
+IPR003323	Pfam	OTU-like cysteine protease	IPR003323	OTU domain	4	4
+IPR011650	Pfam	Peptidase dimerisation domain	IPR011650	Peptidase M20, dimerisation domain	4	4
+IPR018497	Pfam	Peptidase family M13	IPR018497	Peptidase M13, C-terminal domain	4	4
+IPR019165	PANTHER	MITOCHONDRIAL INNER MEMBRANE PROTEASE	IPR019165	Peptidase M76, ATP23	4	4
+IPR033121	ProSiteProfiles	Peptidase family A1 domain profile.	IPR033121	Peptidase family A1 domain	4	4
+IPR036959	Gene3D		IPR036959	Peptidase C12, ubiquitin carboxyl-terminal hydrolase superfamily	4	4
+IPR037219	Gene3D	Peptidase M41	IPR037219	Peptidase M41-like	4	4
+IPR037219	SUPERFAMILY	FtsH protease domain-like	IPR037219	Peptidase M41-like	4	4
+IPR050130	PANTHER	ATP-DEPENDENT CLP PROTEASE	IPR050130	ATP-dependent Clp protease/Chaperone ClpA/ClpB	4	4
+IPR050278	PANTHER	PROTEASE FAMILY S9B,C DIPEPTIDYL-PEPTIDASE IV-RELATED	IPR050278	Serine protease S9B/DPPIV	4	4
+IPR050928	PANTHER	ATP-DEPENDENT PROTEASE	IPR050928	ATP-dependent Zinc Metalloprotease	4	4
+IPR056290	Pfam	CEP76 peptidase-like domain	IPR056290	CEP76/DRC7, peptidase-like domain	4	4
+PTHR12606	PANTHER	SENTRIN/SUMO-SPECIFIC PROTEASE			4	4
+SSF69322	SUPERFAMILY	Tricorn protease domain 2			4	4
+IPR017861	PRINTS	O-sialoglycoprotein endopeptidase (M22) metallo-protease family signature	IPR017861	Kae1/TsaD family	18	3
+IPR001578	PRINTS	Ubiquitin C-terminal hydrolase (C12) family signature	IPR001578	Peptidase C12, ubiquitin carboxyl-terminal hydrolase	10	3
+IPR001714	PRINTS	Methionine aminopeptidase-1 signature	IPR001714	Peptidase M24, methionine aminopeptidase	10	3
+IPR018497	PRINTS	Neprilysin metalloprotease (M13) family signature	IPR018497	Peptidase M13, C-terminal domain	10	3
+IPR000223	PRINTS	Bacterial leader peptidase 1 (S26A) family signature	IPR000223	Peptidase S26A, signal peptidase I	9	3
+IPR001948	PRINTS	Aminopeptidase I zinc metalloprotease (M18) signature	IPR001948	Peptidase M18	8	3
+PR00830	PRINTS	Endopeptidase La (Lon) serine protease (S16) signature			6	3
+IPR046792	Pfam	Peptidase C54 catalytic domain	IPR046792	Peptidase C54, catalytic domain	4	3
+G3DSA:3.30.479.30:FF:000004	FunFam	Putative membrane protease family, stomatin			3	3
+IPR000718	CDD	M13	IPR000718	Peptidase M13	3	3
+IPR001842	Pfam	Fungalysin metallopeptidase (M36)	IPR001842	Peptidase M36, fungalysin	3	3
+IPR002471	ProSitePatterns	Prolyl endopeptidase family serine active site.	IPR002471	Peptidase S9, serine active site	3	3
+IPR003111	SMART	lon_5	IPR003111	Lon protease, N-terminal domain	3	3
+IPR005078	PANTHER	CYSTEINE PROTEASE ATG4	IPR005078	Peptidase C54	3	3
+IPR006639	SMART	psh_8	IPR006639	Presenilin/signal peptide peptidase	3	3
+IPR027065	PANTHER	ATP DEPENDENT LON PROTEASE FAMILY MEMBER	IPR027065	Lon protease	3	3
+IPR050925	PANTHER	RHOMBOID PROTEASE	IPR050925	Rhomboid protease S54	3	3
+PF13574	Pfam	Metallo-peptidase family M12B Reprolysin-like			3	3
+PTHR13312	PANTHER	HIV-INDUCED PROTEIN-7-LIKE PROTEASE			3	3
+IPR001842	PRINTS	Fungalysin metallopeptidase (M36) signature	IPR001842	Peptidase M36, fungalysin	10	2
+IPR000243	PRINTS	Proteasome component signature	IPR000243	Peptidase T1A, proteasome beta-subunit	7	2
+IPR001563	PRINTS	Carboxypeptidase C serine protease (S10) family signature	IPR001563	Peptidase S10, serine carboxypeptidase	7	2
+IPR001907	PRINTS	Clp protease catalytic subunit P signature	IPR001907	ATP-dependent Clp protease proteolytic subunit	7	2
+IPR001733	PRINTS	Eukaryotic signal peptidase (S26B) family signature	IPR001733	Peptidase S26B	4	2
+IPR008256	PRINTS	V8 serine protease family signature	IPR008256	Peptidase S1B	4	2
+IPR036590	Gene3D		IPR036590	SOS response associated peptidase-like	4	2
+G3DSA:1.10.8.60:FF:000008	FunFam	26S protease regulatory subunit 10B			2	2
+G3DSA:1.10.8.60:FF:000018	FunFam	26S protease regulatory subunit 6B			2	2
+G3DSA:2.40.50.140:FF:000030	FunFam	26S protease regulatory subunit 4			2	2
+G3DSA:2.40.50.140:FF:000046	FunFam	26S protease regulatory subunit 6B			2	2
+G3DSA:3.40.50.300:FF:000033	FunFam	26S protease regulatory subunit 6B			2	2
+IPR000223	NCBIfam	signal peptidase I	IPR000223	Peptidase S26A, signal peptidase I	2	2
+IPR001300	Pfam	Calpain family cysteine protease	IPR001300	Peptidase C2, calpain, catalytic domain	2	2
+IPR001300	ProSiteProfiles	Cysteine proteinase, calpain-type, catalytic domain profile.	IPR001300	Peptidase C2, calpain, catalytic domain	2	2
+IPR001563	PANTHER	SERINE PROTEASE FAMILY S10 SERINE CARBOXYPEPTIDASE	IPR001563	Peptidase S10, serine carboxypeptidase	2	2
+IPR001590	Pfam	Reprolysin (M12B) family zinc metalloprotease	IPR001590	Peptidase M12B, ADAM/reprolysin	2	2
+IPR001733	NCBIfam	signal peptidase I	IPR001733	Peptidase S26B	2	2
+IPR001733	PANTHER	SIGNAL PEPTIDASE COMPLEX CATALYTIC SUBUNIT SEC11	IPR001733	Peptidase S26B	2	2
+IPR001907	CDD	S14_ClpP_2	IPR001907	ATP-dependent Clp protease proteolytic subunit	2	2
+IPR002467	CDD	MetAP1	IPR002467	Peptidase M24A, methionine aminopeptidase, subfamily 1	2	2
+IPR002467	Hamap	Methionine aminopeptidase [map].	IPR002467	Peptidase M24A, methionine aminopeptidase, subfamily 1	2	2
+IPR002467	NCBIfam	methionine aminopeptidase, type I	IPR002467	Peptidase M24A, methionine aminopeptidase, subfamily 1	2	2
+IPR002469	Pfam	Dipeptidyl peptidase IV (DPP IV) N-terminal region	IPR002469	Dipeptidylpeptidase IV, N-terminal domain	2	2
+IPR002610	PANTHER	RHOMBOID-RELATED	IPR002610	Peptidase S54, RHOMBOID-like	2	2
+IPR002870	Pfam	Reprolysin family propeptide	IPR002870	Peptidase M12B, propeptide	2	2
+IPR003675	Pfam	Type II CAAX prenyl endopeptidase Rce1-like	IPR003675	CAAX prenyl protease 2/Lysostaphin resistance protein A-like domain	2	2
+IPR003738	PANTHER	DC12-RELATED	IPR003738	SOS response associated peptidase (SRAP)	2	2
+IPR003738	Pfam	SOS response associated peptidase (SRAP)	IPR003738	SOS response associated peptidase (SRAP)	2	2
+IPR007369	PANTHER	SIGNAL PEPTIDE PEPTIDASE	IPR007369	Peptidase A22B, signal peptide peptidase	2	2
+IPR007369	Pfam	Signal peptide peptidase	IPR007369	Peptidase A22B, signal peptide peptidase	2	2
+IPR007653	PANTHER	MICROSOMAL SIGNAL PEPTIDASE 23 KD SUBUNIT  SPC22/23	IPR007653	Signal peptidase complex subunit 3	2	2
+IPR007653	PIRSF	SPC3	IPR007653	Signal peptidase complex subunit 3	2	2
+IPR007653	Pfam	Signal peptidase subunit	IPR007653	Signal peptidase complex subunit 3	2	2
+IPR008283	Pfam	Cytosol aminopeptidase family, N-terminal domain	IPR008283	Peptidase M17, leucyl aminopeptidase, N-terminal	2	2
+IPR008580	PANTHER	DESUMOYLATING ISOPEPTIDASE	IPR008580	PPPDE peptidase domain	2	2
+IPR008580	Pfam	PPPDE putative peptidase domain	IPR008580	PPPDE peptidase domain	2	2
+IPR008580	ProSiteProfiles	PPPDE domain profile.	IPR008580	PPPDE peptidase domain	2	2
+IPR008580	SMART	DUF862_2a	IPR008580	PPPDE peptidase domain	2	2
+IPR009542	PANTHER	MICROSOMAL SIGNAL PEPTIDASE 12 KDA SUBUNIT	IPR009542	Signal peptidase complex subunit 1	2	2
+IPR009542	Pfam	Microsomal signal peptidase 12 kDa subunit (SPC12)	IPR009542	Signal peptidase complex subunit 1	2	2
+IPR016125	PANTHER	PROTEASE FAMILY C15 PYROGLUTAMYL-PEPTIDASE I-RELATED	IPR016125	Peptidase C15, pyroglutamyl peptidase I-like	2	2
+IPR016125	Pfam	Pyroglutamyl peptidase	IPR016125	Peptidase C15, pyroglutamyl peptidase I-like	2	2
+IPR019379	PANTHER	GAMMA-SECRETASE SUBUNIT PEN-2	IPR019379	Gamma-secretase aspartyl protease complex, presenilin enhancer-2 subunit	2	2
+IPR019379	Pfam	Presenilin enhancer-2 subunit of gamma secretase	IPR019379	Gamma-secretase aspartyl protease complex, presenilin enhancer-2 subunit	2	2
+IPR019400	Pfam	Peptidase C65 Otubain	IPR019400	Peptidase C65, otubain	2	2
+IPR019757	ProSitePatterns	Signal peptidases I lysine active site.	IPR019757	Peptidase S26A, signal peptidase I, lysine active site	2	2
+IPR021719	Pfam	Peptidase inhibitor I78 family	IPR021719	Proteinase inhibitor I78	2	2
+IPR022229	Pfam	Tripeptidyl peptidase II	IPR022229	Tripeptidyl peptidase II, second Ig-like domain	2	2
+IPR023042	Hamap	Probable cytosol aminopeptidase [pepA].	IPR023042	Peptidase M17, leucine aminopeptidase	2	2
+IPR023358	Gene3D	Aminopeptidase i, Domain 2	IPR023358	Peptidase M18, domain 2	2	2
+IPR023562	PANTHER	ATP-DEPENDENT CLP PROTEASE PROTEOLYTIC SUBUNIT	IPR023562	Clp protease proteolytic subunit /Translocation-enhancing protein TepA	2	2
+IPR023562	Pfam	Clp protease	IPR023562	Clp protease proteolytic subunit /Translocation-enhancing protein TepA	2	2
+IPR027065	PANTHER	LON PROTEASE	IPR027065	Lon protease	2	2
+IPR029346	Pfam	Ubiquitin-specific protease C-terminal	IPR029346	Ubiquitin carboxyl-terminal hydrolase, C-terminal	2	2
+IPR032416	Pfam	C-terminal region of peptidase_M24	IPR032416	Peptidase M24, C-terminal domain	2	2
+IPR036440	Gene3D		IPR036440	Peptidase C15, pyroglutamyl peptidase I-like superfamily	2	2
+IPR036440	SUPERFAMILY	Pyrrolidone carboxyl peptidase (pyroglutamate aminopeptidase)	IPR036440	Peptidase C15, pyroglutamyl peptidase I-like superfamily	2	2
+IPR036590	SUPERFAMILY	BB1717-like	IPR036590	SOS response associated peptidase-like	2	2
+IPR037730	PANTHER	MITOCHONDRIAL INNER MEMBRANE PROTEASE SUBUNIT 2	IPR037730	Mitochondrial inner membrane protease subunit 2	2	2
+IPR039731	PANTHER	PROTEASE U48 CAAX PRENYL PROTEASE RCE1	IPR039731	CAAX prenyl protease 2, eukaryotes	2	2
+IPR039866	PANTHER	PROTEASE FAMILY M28 PLASMA GLUTAMATE CARBOXYPEPTIDASE-RELATED	IPR039866	Carboxypeptidase Q	2	2
+IPR041507	Pfam	Ubiquitin carboxyl-terminal hydrolases	IPR041507	Peptidase C12, C-terminal domain	2	2
+IPR042266	Gene3D	PPPDE domains	IPR042266	PPPDE peptidase domain superfamily	2	2
+IPR042467	Gene3D	Peptidase C65 Otubain, subdomain 2	IPR042467	Peptidase C65, otubain, subdomain 2	2	2
+IPR046939	Gene3D		IPR046939	Tripeptidyl-peptidase 2, C-terminal domain superfamily	2	2
+IPR046940	Gene3D		IPR046940	Tripeptidyl peptidase II, Ig-like domain superfamily	2	2
+IPR047113	PANTHER	PROTEASE FAMILY M24  METHIONYL AMINOPEPTIDASE, AMINOPEPTIDASE P	IPR047113	Proliferation-associated protein 2G4/ARX1	2	2
+IPR048383	Pfam	Tripeptidyl-peptidase II, first Ig-like domain	IPR048383	Tripeptidyl-peptidase II, first Ig-like domain	2	2
+IPR048384	Pfam	TPPII, galactose-binding domain-like	IPR048384	Tripeptidyl-peptidase II, galactose-binding domain-like	2	2
+IPR050688	PANTHER	ZINC FINGER PROTEIN	IPR050688	Zinc finger and ubiquitin peptidase domain-containing protein	2	2
+IPR051947	PANTHER	SENTRIN-SPECIFIC PROTEASE	IPR051947	Sentrin-specific protease	2	2
+IPR052064	PANTHER	PROTEASE FAMILY S26 MITOCHONDRIAL INNER MEMBRANE PROTEASE-RELATED	IPR052064	Mitochondrial Inner Membrane Protease Subunit 1	2	2
+IPR052471	PANTHER	PROTEASE B INHIBITOR 2	IPR052471	Protease B Inhibitor I9	2	2
+PF03568	Pfam	Separin, protease domain			2	2
+PTHR39600	PANTHER	PEPTIDASE INHIBITOR I78 FAMILY PROTEIN			2	2
+IPR001548	PRINTS	Peptidyl-dipeptidase A (M2) metalloprotease family signature	IPR001548	Peptidase M2, peptidyl-dipeptidase A	6	1
+IPR001940	PRINTS	HtrA/DegQ protease family signature	IPR001940	Peptidase S1C	5	1
+IPR001096	PRINTS	Hemoglobinase (C13) cysteine protease signature	IPR001096	Peptidase C13, legumain	3	1
+IPR001461	PRINTS	Pepsin (A1) aspartic protease family signature	IPR001461	Aspartic peptidase A1	3	1
+IPR002410	PRINTS	Prolyl aminopeptidase (S33) family signature	IPR002410	Peptidase S33	2	1
+G3DSA:1.10.8.60:FF:000006	FunFam	26S protease regulatory subunit 8			1	1
+G3DSA:1.20.5.5270:FF:000001	FunFam	Lon protease homolog, mitochondrial			1	1
+G3DSA:2.10.109.10:FF:000005	FunFam	Mitochondrial inner membrane protease subunit			1	1
+G3DSA:2.40.50.140:FF:000168	FunFam	26S protease regulatory subunit 10B			1	1
+G3DSA:3.30.830.10:FF:000009	FunFam	Presequence protease, mitochondrial			1	1
+G3DSA:3.40.50.1820:FF:000003	FunFam	Dipeptidyl peptidase 4			1	1
+G3DSA:3.40.50.300:FF:000034	FunFam	26S protease regulatory subunit 10B			1	1
+G3DSA:3.90.226.10:FF:000001	FunFam	ATP-dependent Clp protease proteolytic subunit			1	1
+IPR000246	PANTHER	L-ASPARAGINASE	IPR000246	Peptidase T2, asparaginase 2	1	1
+IPR000246	Pfam	Asparaginase	IPR000246	Peptidase T2, asparaginase 2	1	1
+IPR001096	Pfam	Peptidase C13 family	IPR001096	Peptidase C13, legumain	1	1
+IPR001108	PANTHER	PRESENILIN	IPR001108	Peptidase A22A, presenilin	1	1
+IPR001108	Pfam	Presenilin	IPR001108	Peptidase A22A, presenilin	1	1
+IPR001131	ProSitePatterns	Aminopeptidase P and proline dipeptidase signature.	IPR001131	Peptidase M24B, X-Pro dipeptidase/aminopeptidase P, conserved site	1	1
+IPR001193	PANTHER	PROTEASE M50 MEMBRANE-BOUND TRANSCRIPTION FACTOR SITE 2 PROTEASE	IPR001193	Membrane-bound transcription factor site-2 protease	1	1
+IPR001548	CDD	M2_ACE	IPR001548	Peptidase M2, peptidyl-dipeptidase A	1	1
+IPR001548	PANTHER	ANGIOTENSIN-CONVERTING ENZYME	IPR001548	Peptidase M2, peptidyl-dipeptidase A	1	1
+IPR001548	Pfam	Angiotensin-converting enzyme	IPR001548	Peptidase M2, peptidyl-dipeptidase A	1	1
+IPR001548	ProSiteProfiles	Peptidase family M2 domain profile.	IPR001548	Peptidase M2, peptidyl-dipeptidase A	1	1
+IPR001907	Hamap	ATP-dependent Clp protease proteolytic subunit [clpP].	IPR001907	ATP-dependent Clp protease proteolytic subunit	1	1
+IPR001969	ProSitePatterns	Eukaryotic and viral aspartyl proteases active site.	IPR001969	Aspartic peptidase, active site	1	1
+IPR002467	ProSitePatterns	Methionine aminopeptidase subfamily 1 signature.	IPR002467	Peptidase M24A, methionine aminopeptidase, subfamily 1	1	1
+IPR003111	ProSiteProfiles	Lon N-terminal domain profile.	IPR003111	Lon protease, N-terminal domain	1	1
+IPR005314	PANTHER	EXTRA SPINDLE POLES 1-RELATED	IPR005314	Peptidase C50, separase	1	1
+IPR007541	Pfam	Peptidase of plants and bacteria	IPR007541	Uncharacterised protein family, basic secretory protein	1	1
+IPR008269	Pfam	Lon protease (S16) C-terminal proteolytic domain	IPR008269	Peptidase S16, Lon proteolytic domain	1	1
+IPR008269	ProSiteProfiles	Lon proteolytic domain profile.	IPR008269	Peptidase S16, Lon proteolytic domain	1	1
+IPR009582	PANTHER	MICROSOMAL SIGNAL PEPTIDASE 25 KDA SUBUNIT	IPR009582	Signal peptidase complex subunit 2	1	1
+IPR009582	Pfam	Microsomal signal peptidase 25 kDa subunit (SPC25)	IPR009582	Signal peptidase complex subunit 2	1	1
+IPR011546	Pfam	FtsH Extracellular	IPR011546	Peptidase M41, FtsH extracellular	1	1
+IPR015211	Pfam	Leukotriene A4 hydrolase, C-terminal	IPR015211	Peptidase M1, leukotriene A4 hydrolase/aminopeptidase C-terminal	1	1
+IPR015211	SMART	Leuk_A4_hydro_C_2	IPR015211	Peptidase M1, leukotriene A4 hydrolase/aminopeptidase C-terminal	1	1
+IPR017860	ProSitePatterns	Glycoprotease family signature.	IPR017860	Peptidase M22, conserved site	1	1
+IPR019103	CDD	RP_DDI	IPR019103	Aspartic peptidase, DDI1-type	1	1
+IPR019103	Pfam	Aspartyl protease	IPR019103	Aspartic peptidase, DDI1-type	1	1
+IPR019758	ProSitePatterns	Signal peptidases I signature 3.	IPR019758	Peptidase S26A, signal peptidase I, conserved site	1	1
+IPR024729	Pfam	ICP0-binding domain of Ubiquitin-specific protease 7	IPR024729	Ubiquitin carboxyl-terminal hydrolase 7, ICP0-binding domain	1	1
+IPR033851	CDD	M3A_MIP	IPR033851	Mitochondrial intermediate peptidase	1	1
+IPR038466	Gene3D		IPR038466	Peptidase S8, pro-domain superfamily	1	1
+IPR038502	Gene3D		IPR038502	Peptidase M1, LTA-4 hydrolase/aminopeptidase, C-terminal domain superfamily	1	1
+IPR040201	PANTHER	MITOCHONDRIAL INNER MEMBRANE I-AAA PROTEASE SUPERCOMPLEX SUBUNIT MGR3-RELATED	IPR040201	Protein Mrg3-like	1	1
+IPR050704	PANTHER	OTU DOMAIN CONTAINING PROTEIN	IPR050704	Peptidase C85-like	1	1
+IPR052083	PANTHER	AMINOACYLASE-1	IPR052083	Aminoacylase-1 peptidase M20A	1	1
+IPR054594	Pfam	Lon protease AAA+ ATPase lid domain	IPR054594	Lon protease, AAA+ ATPase lid domain	1	1
+IPR055130	Pfam	PreP C-terminal domain	IPR055130	Presequence protease, mitochondrial-type, C-terminal domain	1	1
+NF001368	NCBIfam	ATP-dependent Clp protease proteolytic subunit			1	1
+NF009205	NCBIfam	ATP-dependent Clp protease proteolytic subunit			1	1
+PTHR12917	PANTHER	ASPARTYL PROTEASE DDI-RELATED			1	1
+PTHR12947	PANTHER	AMSH-LIKE PROTEASE			1	1
